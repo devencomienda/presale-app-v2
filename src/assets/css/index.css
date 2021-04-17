@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'pricedown';
+    src: url('../fonts/pricedown\ bl.ttf');
+}
+
+.font-gta > * {
+    font-family: pricedown !important;
+}
+
+.bg-white {
+    background: white;
+}
+
+.text-white {
+    color: white;
+}
+
+.app-icon {
+    display: block;
+    font-family: pricedown;
+    font-size: 25px;
+    letter-spacing: .1em;
+    margin-left: 10px;
+}
+
+.tracking-wider {
+    letter-spacing: .05em;
+}
